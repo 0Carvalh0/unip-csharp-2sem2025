@@ -6,7 +6,7 @@ Este repositório contém os exercícios realizados durante o curso de Análise 
 
 - **Instituição**: UNIP (Universidade Paulista)
 - **Curso**: Análise e Desenvolvimento de Sistemas
-- **Disciplina**: Programação Orientada a Objetos
+- **Disciplina**: Programação Orientada a Objetos II
 
 ## Estrutura do Repositório
 
