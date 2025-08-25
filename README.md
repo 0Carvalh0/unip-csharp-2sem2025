@@ -12,8 +12,8 @@ Este repositório contém os exercícios realizados durante o curso de Análise 
 
 O repositório está organizado da seguinte forma:
 
-- `Exercicios_POO/ex001`: Exercícios da primeira aula
-- `Exercicios_POO/ex002`: Exercícios da segunda aula
+- `unip-csharp-2sem2025/aula01`: Exercícios da primeira aula
+- `unip-csharp-2sem2025/aula02`: Exercícios da segunda aula
 - ...
 
 Cada pasta contém os arquivos relacionados aos exercícios daquela aula específica.
@@ -21,13 +21,14 @@ Cada pasta contém os arquivos relacionados aos exercícios daquela aula especí
 ## Tecnologias Utilizadas
 
 - C#
+- WPF
 - Visual Studio 2022
 
 ## Como Utilizar
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/0Carvalh0/exercisesPOO-UNIP.git
+   git clone https://github.com/0Carvalh0/unip-csharp-2sem2025.git
    ```
 2. Navegue até a pasta do exercício desejado.
 
