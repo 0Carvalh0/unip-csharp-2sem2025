@@ -1,0 +1,29 @@
+﻿<Window x:Class="aula04A.SegundaJanela"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:aula04A"
+        mc:Ignorable="d"
+        Title="SegundaJanela" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF848484" Offset="1"/>
+                <GradientStop Color="White" Offset="0"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <TextBlock x:Name="txt_primosGerados"  HorizontalAlignment="Center" Margin="0,84,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="291" Width="780" Background="White"/>
+        <Button x:Name="btn_salvar" Content="Salvar no Banco" HorizontalAlignment="Left" Margin="486,399,0,0" VerticalAlignment="Top" Height="30" Width="141" Click="btn_salvar_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF04CBFF"/>
+                    <GradientStop Color="#FF0077E6" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btn_fechar" Content="Fechar" HorizontalAlignment="Left" Margin="649,399,0,0" VerticalAlignment="Top" Height="30" Width="141" Background="#FF7F7F7F" Foreground="White"/>
+        <Label Content="Números Primos Gerados" HorizontalAlignment="Left" Margin="26,35,0,0" VerticalAlignment="Top" Height="44" Width="262" FontSize="22"/>
+
+    </Grid>
+</Window>

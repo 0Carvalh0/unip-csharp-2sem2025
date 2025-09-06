@@ -1,0 +1,17 @@
+C:\Users\lab9\Documents\aula04\aula04A\aula04A\bin\Debug\aula04A.exe.config
+C:\Users\lab9\Documents\aula04\aula04A\aula04A\bin\Debug\aula04A.exe
+C:\Users\lab9\Documents\aula04\aula04A\aula04A\bin\Debug\aula04A.pdb
+C:\Users\lab9\Documents\aula04\aula04A\aula04A\obj\Debug\aula04A.csproj.AssemblyReference.cache
+C:\Users\lab9\Documents\aula04\aula04A\aula04A\obj\Debug\MainWindow.g.cs
+C:\Users\lab9\Documents\aula04\aula04A\aula04A\obj\Debug\App.g.cs
+C:\Users\lab9\Documents\aula04\aula04A\aula04A\obj\Debug\aula04A_MarkupCompile.cache
+C:\Users\lab9\Documents\aula04\aula04A\aula04A\obj\Debug\aula04A_MarkupCompile.lref
+C:\Users\lab9\Documents\aula04\aula04A\aula04A\obj\Debug\MainWindow.baml
+C:\Users\lab9\Documents\aula04\aula04A\aula04A\obj\Debug\aula04A.g.resources
+C:\Users\lab9\Documents\aula04\aula04A\aula04A\obj\Debug\aula04A.Properties.Resources.resources
+C:\Users\lab9\Documents\aula04\aula04A\aula04A\obj\Debug\aula04A.csproj.GenerateResource.cache
+C:\Users\lab9\Documents\aula04\aula04A\aula04A\obj\Debug\aula04A.csproj.CoreCompileInputs.cache
+C:\Users\lab9\Documents\aula04\aula04A\aula04A\obj\Debug\aula04A.exe
+C:\Users\lab9\Documents\aula04\aula04A\aula04A\obj\Debug\aula04A.pdb
+C:\Users\lab9\Documents\aula04\aula04A\aula04A\obj\Debug\SegundaJanela.g.cs
+C:\Users\lab9\Documents\aula04\aula04A\aula04A\obj\Debug\SegundaJanela.baml
